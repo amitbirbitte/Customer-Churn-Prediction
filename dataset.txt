@@ -1,0 +1,7 @@
+DataBase Details: 
+SQL database 
+DB Name: project_telecom 
+Table Name: telecom_churn_data 
+Host: 18.136.157.135
+Username: dm_team3 
+Password: DM!$!Team!27@9!20&
