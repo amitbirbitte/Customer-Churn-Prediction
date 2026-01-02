@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction – Telecom Industry
 
-![Customer Churn Prediction](cover.png)
+![Customer Churn Prediction](cover-image.png)
 
 ---
 
