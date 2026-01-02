@@ -1,5 +1,9 @@
 # 📊 Customer Churn Prediction – Telecom Industry
 
+![Customer Churn Prediction](cover.png)
+
+---
+
 ## 🔍 Project Overview
 Customer churn is a major challenge in the telecom industry, where retaining existing customers is more cost-effective than acquiring new ones.
 This project uses Machine Learning to predict customer churn and generate churn risk scores, enabling proactive and targeted retention strategies.
